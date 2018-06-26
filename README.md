@@ -1,3 +1,6 @@
+![Image](https://www.researchgate.net/profile/Can_Cui7/publication/266556783/figure/fig1/AS:295546771263492@1447475249574/Diagram-of-the-KD-tree-structure.png)
+
+
 ### Spatial data enrichment: Join two geolocation datasets by using Kdtree
 
 |__Problem__|__Data__|__Methods__|__Libs__|__Link__|
