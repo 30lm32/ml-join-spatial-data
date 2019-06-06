@@ -1,4 +1,4 @@
-![Image](https://www.researchgate.net/profile/Can_Cui7/publication/266556783/figure/fig1/AS:295546771263492@1447475249574/Diagram-of-the-KD-tree-structure.png)
+![Image](https://gistbok.ucgis.org/sites/default/files/DM66-Fig7.png)
 
 If you want to see the further ML projects, you may visit my main repo: https://github.com/erdiolmezogullari/ml-projects
 
